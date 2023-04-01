@@ -6,7 +6,7 @@
 4.Project Explorer-->Project Name-->src-->main-->java<br>
 5.Create new java class(Eg: Servlet.java) and write the java code<br>
 6.Project Explorer-->Project Name-->src-->main-->webapp<br>
-7.Create new HTML file and write html code<br>
+7.Create new HTML file(Eg: login.html) and write html code<br>
 8.Run the code<br><br>
 # Login.html
 ![image](https://user-images.githubusercontent.com/102860861/229297565-31a223d5-e638-47ae-81f0-7c3c24356a96.png)
